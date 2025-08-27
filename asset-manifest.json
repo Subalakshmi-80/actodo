@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/actodo/static/css/main.cc921c34.css",
+    "main.js": "/actodo/static/js/main.ee523ac8.js",
+    "index.html": "/actodo/index.html",
+    "main.cc921c34.css.map": "/actodo/static/css/main.cc921c34.css.map",
+    "main.ee523ac8.js.map": "/actodo/static/js/main.ee523ac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc921c34.css",
+    "static/js/main.ee523ac8.js"
+  ]
+}
