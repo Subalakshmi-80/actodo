@@ -26,7 +26,7 @@ function App()
 
   return(
     <div>
-    <BrowserRouter>
+    <BrowserRouter basename="/actodo">
     <Routes>
     <Route path='/' element={<Login users={users} setusers={setusers}/>}></Route>
     <Route path='/signup' element={<Signup users={users} setusers={setusers}/>}></Route>
